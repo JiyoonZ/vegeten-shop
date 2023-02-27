@@ -101,3 +101,17 @@
 
 본 프로젝트에서 제공하는 모든 코드 등의는 저작권법에 의해 보호받는 ㈜엘리스의 자산이며, 무단 사용 및 도용, 복제 및 배포를 금합니다.
 Copyright 2022 엘리스 Inc. All rights reserved.
+
+
+## 프로젝트 미리보기 
+
+<div style="text-align:center">
+[프로젝트 시연영상 ⬇️] <br/>
+<a target='_blank' href="https://www.youtube.com/watch?v=ega13LLFIy0">
+<img style="width:600px" src="https://i.ytimg.com/vi/ega13LLFIy0/sddefault.jpg">
+
+</img>
+</a>
+
+</div>
+
